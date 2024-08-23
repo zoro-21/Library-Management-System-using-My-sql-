@@ -1,3 +1,4 @@
+# LMS OF DATABASE
 Project Description: Library Management System by SQL
 Overview:
 The Library Management System (LMS) is a database-driven application developed using SQL, designed to manage the comprehensive operations of a library. The system enables efficient handling of book inventories, member accounts, book loans, returns, fines, and staff management. The underlying database schema is based on an Entity-Relationship (ER) model that accurately represents the relationships between various entities in the library ecosystem.
